@@ -1,3 +1,4 @@
 data/*
-saved/*
-output/*
+*.pth
+*.pkl
+*.csv
